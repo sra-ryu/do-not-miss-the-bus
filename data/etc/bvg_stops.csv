@@ -1,0 +1,101 @@
+Line,Stop,ID,Geo Direction,Is Centre?
+Line 120,Atrium,900096314,North,FALSE
+Line 120,Göschenplatz/S Wittenau,900096193,North,FALSE
+Line 120,U Wittenau,900096101,North,FALSE
+Line 120,Techowpromenade,900096454,North,FALSE
+Line 120,U Paracelsus-Bad,900085104,North,FALSE
+Line 120,Weiße Stadt,900085152,North,FALSE
+Line 120,Türkenstr.,900011151,North,TRUE
+Line 120,U Seestr.,900009103,North,TRUE
+Line 120,S+U Wedding,900009104,North,TRUE
+Line 120,U Reinickendorfer Str./Sellerstr.,900008107,Centre / North,TRUE
+Line 140,U Alt-Tempelhof,900068202,South,FALSE
+Line 140,Ringbahnstr.,900068253,South,FALSE
+Line 140,Dudenstr./Katzbachstr.,900068102,South,TRUE
+Line 140,U Mehringdamm,900017101,Centre / South,TRUE
+Line 140,U Gneisenaustr.,900016101,Centre / South,TRUE
+Line 140,Blücherstr.,900012152,Centre / South,TRUE
+Line 140,U Prinzenstr.,900013103,Centre,TRUE
+Line 140,Segitzdamm,900013151,Centre,TRUE
+Line 140,U Kottbusser Tor,900013102,Centre / East,TRUE
+Line 140,Wrangelstr.,900014153,East,TRUE
+Line 194,Sonnenallee/Pannierstr.,900075103,South-East,TRUE
+Line 194,Bouchéstr.,900190506,South-East,TRUE
+Line 194,S Treptower Park,900190001,South-East,TRUE
+Line 194,S Ostkreuz,900120003,East,TRUE
+Line 194,S Rummelsburg,900160001,East,FALSE
+Line 194,S Nöldnerplatz/Schlichtallee,900160534,East,FALSE
+Line 194,U Friedrichsfelde,900161512,East,FALSE
+Line 194,Rummelsburger Str.,900181002,East,FALSE
+Line 194,S Friedrichsfelde Ost,900171002,East,FALSE
+Line 194,Reiler Str.,900171539,East,FALSE
+Line M11,Unter den Eichen/Drakestr.,900066103,South-West,FALSE
+Line M11,S Lichterfelde West,900066101,South-West,FALSE
+Line M11,S Lichterfelde Ost,900064301,South-West,FALSE
+Line M11,Geraer Str.,900064357,South,FALSE
+Line M11,S Buckower Chaussee,900072101,South,FALSE
+Line M11,Halker Zeile,900072103,South,FALSE
+Line M11,Steinträgerweg,900080651,South,FALSE
+Line M11,U Johannisthaler Chaussee,900082202,South-East,FALSE
+Line M11,Neuköllner Str./Zwickauer Damm,900083181,South-East,FALSE
+Line M11,Sterndamm/Schule,900194526,South-East,FALSE
+Line M29,Lynarstr.,900048153,West,FALSE
+Line M29,S Halensee,900040101,West,TRUE
+Line M29,U Adenauerplatz,900023302,West,TRUE
+Line M29,Bleibtreustr.,900023351,West,TRUE
+Line M29,U Wittenbergplatz,900056101,West / Centre,TRUE
+Line M29,Lützowplatz,900005105,Centre,TRUE
+Line M29,S Anhalter Bahnhof,900012101,Centre,TRUE
+Line M29,Lindenstr./Oranienstr.,900012104,Centre,TRUE
+Line M29,U Görlitzer Bahnhof,900014101,Centre / East,TRUE
+Line M29,Glogauer Str.,900015103,South-East,TRUE
+Line M41,Schulenburgpark,900077156,South-East,FALSE
+Line M41,S Köllnische Heide,900077155,South-East,FALSE
+Line M41,S Sonnenallee,900077106,South-East,TRUE
+Line M41,Geygerstr.,900076153,South-East,TRUE
+Line M41,U Hermannplatz/Sonnenallee,900078105,South-East,TRUE
+Line M41,Graefestr.,900016252,South,TRUE
+Line M41,Zossener Brücke,900016103,Centre,TRUE
+Line M41,U Hallesches Tor,900012103,Centre,TRUE
+Line M41,S+U Potsdamer Platz,900100020,Centre,TRUE
+Line M41,S Potsdamer Platz/Voßstr.,900100022,Centre,TRUE
+Line M45,Schülerbergstr.,900027252,West,FALSE
+Line M45,S+U Rathaus Spandau,900029302,West,FALSE
+Line M45,Brunsbütteler D./Ruhlebener Str.,900031101,West,FALSE
+Line M45,U Ruhleben,900025202,West,FALSE
+Line M45,Spandauer Damm/Reichsstr.,900025252,West,FALSE
+Line M45,Sophie-Charlotten-Str./S Westend,900020234,West,TRUE
+Line M45,Klausenerplatz,900022103,West,TRUE
+Line M45,U Richard-Wagner-Platz,900022202,West,TRUE
+Line M45,U Ernst-Reuter-Platz,900023101,West,TRUE
+Line M45,S+U Zoologischer Garten/Jebensstr.,900023172,West / Centre,TRUE
+Line M48,Zehlendorf Eiche,900049241,South-West,FALSE
+Line M48,Holländische Mühle,900050251,South-West,FALSE
+Line M48,Unter den Eichen/Botan. Garten,900066105,South-West,FALSE
+Line M48,S+U Rathaus Steglitz,900062202,South-West,FALSE
+Line M48,U Walther-Schreiber-Platz,900061101,South-West,FALSE
+Line M48,S+U Innsbrucker Platz,900054105,South-West,TRUE
+Line M48,Richard-von-Weizsäcker-Platz,900054109,South-West,TRUE
+Line M48,U Bülowstr.,900056104,Centre,TRUE
+Line M48,Potsdamer Brücke,900005205,Centre,TRUE
+Line M48,S Potsdamer Platz/Voßstr.,900100022,Centre,TRUE
+Line X54,Prenzlauer Promenade/Granitzstr.,900130014,North-East,FALSE
+Line X54,Heinersdorf Kirche,900141002,North-East,FALSE
+Line X54,Pasedagplatz,900140002,North-East,FALSE
+Line X54,Rathaus Weißensee,900140018,North-East,FALSE
+Line X54,Darßer Str./Ribnitzer Str.,900150022,North-East,FALSE
+Line X54,S Hohenschönhausen,900152001,North-East,FALSE
+Line X54,Vincent-van-Gogh-Str.,900152502,North-East,FALSE
+Line X54,S Raoul-Wallenberg-Str.,900170002,North-East,FALSE
+Line X54,S Marzahn,900170001,East,FALSE
+Line X54,Teupitzer Str.,900175554,East,FALSE
+Line X69,S Mehrower Allee,900170003,North-East / East,FALSE
+Line X69,Glambecker Ring,900170510,East,FALSE
+Line X69,Landsberger Allee/Blumberger D.,900170013,East,FALSE
+Line X69,Cecilienstr./Blumberger Damm,900171010,East,FALSE
+Line X69,U Elsterwerdaer Platz,900171006,East,FALSE
+Line X69,Chemnitzer Str./Jägerstr.,900175008,East,FALSE
+Line X69,S Köpenick,900180001,South-East,FALSE
+Line X69,Alte Erpe,900180536,South-East,FALSE
+Line X69,S.-Allende-Str./Wendenschloßstr.,900180020,South-East,FALSE
+Line X69,Erwin-Bock-Str.,900180527,South-East,FALSE
